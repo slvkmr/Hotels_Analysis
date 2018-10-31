@@ -2,7 +2,7 @@
 
 ### Input: 
 Json file about hotels in India with which has 9 fields and 305 rows.Rows are subjecct to change and the code must scale to size of data. The fields are as below:
-- HOTE
+- HOTEL NAME
 - ADDRESS
 - STATE
 - PHONE
