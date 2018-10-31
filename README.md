@@ -13,7 +13,7 @@ Json file about hotels in India with which has 9 fields and 305 rows.Rows are su
 - Rooms
 
 ### Functionality:
-The solution must process the json file and form a pandas dataframe by extracting the data. From the dataframe, hotels with maximum of rooms under each type must be computed. Below are possible approaches:
+The solution would process the json file and form a pandas dataframe by extracting the data. From the dataframe, hotels with maximum of rooms under each type would be computed. Below are possible approaches:
 - Naive approach is to fit entire data into the memory and do the computation.
 - Increase the number of machines and process the data by distributing among them.
 - Divide the data into chunks which could be fit into memory and process the data sequentially.
